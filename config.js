@@ -3,35 +3,35 @@ if (fs.existsSync('config.env')) require('dotenv').config({ path: __dirname+'/co
 
 
 //═══════[Required Variables]════════\\
-global.owner = process.env.OWNER_NUMBER.split("94710109956,")
-global.mongodb = process.env.MONGODB_URI || "mongodb://mongo:cCBe2fBeA26f4eEbDbC2gD64226EHFg3@viaduct.proxy.rlwy.net:34483"
+global.owner = process.env.OWNER_NUMBER.split("94762175364,")
+global.mongodb = process.env.MONGODB_URI || "mongodb://utjaop1dhaw2u436zwkm:ID7a74JFWha1ijLmN7iQ@n1-c2-mongodb-clevercloud-customers.services.clever-cloud.com:27017,n2-c2-mongodb-clevercloud-customers.services.clever-cloud.com:27017/bbtkq1sm2exv2vh?replicaSet=rs0"
 global.port= process.env.PORT || 5000
 global.email = 'sam@secktor.live'
 global.blockJids = process.env.BLOCK_JID ||'120363165030810524@g.us' ;
 global.allowJids = process.env.ALLOW_JID ||'120363165030810524@g.us' ;
-global.github = 'https://github.com/CYBER-THUSHAN/SHENU-QUEEN-V1'
+global.github = 'https://github.com/tharindusupun/QUEEN-AHINSA'
 global.location = 'Sri Lanka'
 global.gurl = 'https://instagram.com/' // add your username
-global.sudo = process.env.SUDO || '94710109956'
-global.devs = '94710109956';
+global.sudo = process.env.SUDO || '94762175364'
+global.devs = '94762175364';
 global.INBOX_BLOCK = 'true'
 global.TIMEZONE = 'Asia/Colombo' 
 global.website = 'https://github.com/SamPandey001/Secktor-Md' //wa.me/+91000000000000
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/daa9647f2139e462e4316.jpg'
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/928e7e60cc557ca320dff.jpg'
 module.exports = {
-  botname:   process.env.BOT_NAME === undefined ? 'SHENU-QUEEN-MD 🧚' : process.env.BOT_NAME,
-  ownername: process.env.OWNER_NAME === undefined ? 'CYBER-THUSHAN' : process.env.OWNER_NAME,
-  ownernumber: process.env.OWNER_NUMBER === undefined ? '94710109956' : process.env.OWNER_NUMBER,
+  botname:   process.env.BOT_NAME === undefined ? '𝐐𝐔𝐄𝐄𝐍 𝐀𝐇𝐈𝐍𝐒𝐀-MD 🧚' : process.env.BOT_NAME,
+  ownername: process.env.OWNER_NAME === undefined ? '𝐓𝐇𝐀𝐑𝐈𝐍𝐃𝐔 𝐎𝐅𝐂' : process.env.OWNER_NAME,
+  ownernumber: process.env.OWNER_NUMBER === undefined ? '94762175364' : process.env.OWNER_NUMBER,
   sessionName:  process.env.SESSION_ID === undefined ? false : process.env.SESSION_ID,
-  author:  process.env.PACK_INFO.split(";")[0] === undefined ? '🚨🧚‍♀️𝘚𝘏𝘌𝘕𝘜 𝘘𝘜𝘌𝘌𝘕:𝘊𝘠𝘉𝘌𝘙-𝘛𝘏𝘜𝘚𝘏𝘈𝘕' : process.env.PACK_INFO.split(";")[0],
+  author:  process.env.PACK_INFO.split(";")[0] === undefined ? '🚨🧚‍♀️𝐐𝐔𝐄𝐄𝐍 𝐀𝐇𝐈𝐍𝐒𝐀:𝐓𝐇𝐀𝐑𝐈𝐍𝐃𝐔 𝐎𝐅𝐂' : process.env.PACK_INFO.split(";")[0],
   auto_read_status :  process.env.AUTO_READ_STATUS === undefined ? false : process.env.AUTO_READ_STATUS,
-  packname:  process.env.PACK_INFO.split(";")[1] === undefined ? '𝗦𝗛𝗘𝗡𝗨 𝗤𝗨𝗘𝗘𝗡 𝗠𝗗' : process.env.PACK_INFO.split(";")[1],	
+  packname:  process.env.PACK_INFO.split(";")[1] === undefined ? '𝐐𝐔𝐄𝐄𝐍 𝐀𝐇𝐈𝐍𝐒𝐀 𝗠𝗗' : process.env.PACK_INFO.split(";")[1],	
   dl_limit: process.env.DL_SIZE || '350',
   autoreaction:  process.env.AUTO_REACTION  === undefined ? false : process.env.AUTO_REACTION ,
   antibadword :  process.env.ANTI_BAD_WORD === undefined ? 'nbwoed' : process.env.ANTI_BAD_WORD,
   alwaysonline:  process.env.ALWAYS_ONLINE === undefined ? true : process.env.ALWAYS_ONLINE,
   antilink: process.env.ANTILINK_VALUES || 'chat.whatsapp.com',
-  antibadword : process.env.ANTI_BAD_WORD || 'fuck,xxx,sex,fucked,Brazzers,pronhub,huth,fucking,huththa,huththo,hukanna,fucked,pakaya,pako,ponnaya,ponnayo,kariya,kariyo,huththaa,hutta',
+  antibadword : process.env.ANTI_BAD_WORD || 'huththa',
   antifake : process.env.FAKE_COUNTRY_CODE === undefined ? '212' : process.env.FAKE_COUNTRY_CODE,
   readmessage:  process.env.READ_MESSAGE === undefined ? true : process.env.READ_MESSAGE,
   HANDLERS:  process.env.PREFIX === undefined ? ['#','!','.'] : process.env.PREFIX,
@@ -43,7 +43,7 @@ module.exports = {
   BRANCH: 'main',
   autobio:  process.env.AUTO_BIO === undefined ? false : process.env.AUTO_BIO,
   ALIVE_MESSAGE:  process.env.ALIVE_MESSAGE === undefined ? '' : process.env.ALIVE_MESSAGE,
-  caption :process.env.CAPTION || "  \t🧚 *ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴄʏʙᴇʀ ᴛʜᴜꜱʜᴀɴ*",
+  caption :process.env.CAPTION || "  \t🧚 *ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴄʏʙᴇʀ 𝐐𝐔𝐄𝐄𝐍 𝐀𝐇𝐈𝐍𝐒𝐀*",
   OPENAI_API_KEY:  process.env.OPENAI_API_KEY === undefined ? false : process.env.OPENAI_API_KEY,
   heroku:  process.env.heroku === undefined ? false : process.env.heroku,
   HEROKU: {
