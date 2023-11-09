@@ -66,9 +66,9 @@
   
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=MULITE+DIVICE+WHATSAPP+BOT+NEW+2023" alt="Typing SVG" /></a>
 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=CREATED+BY✨𝐓𝐇𝐀𝐑𝐈𝐍𝐃𝐔 𝐎𝐅𝐂+" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=CREATED+BY=𝐓𝐇𝐀𝐑𝐈𝐍𝐃𝐔 𝐎𝐅𝐂+" alt="Typing SVG" /></a>
 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=MY+NUMBER✨94762175364" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=MY+NUMBER=94762175364" alt="Typing SVG" /></a>
 
 
 ## `⨷ Deploy To Heroku 👇` 
@@ -133,11 +133,11 @@ click the below button to deploy on heroku!
 ```
 
 
-## [☰☘️ 𝙎𝙋𝙄𝘾𝙄𝘼𝙇 𝙏𝙃𝘼𝙉𝙆 𝙔𝙊𝙐 ☘️☰]
+## [☰☘️ 𝙏𝙃𝘼𝙉𝙆 𝙔𝙊𝙐 ☘️☰]
 
-| <a href="https://kaveeshasithum.netlify.app/"><img src="https://telegra.ph/file/b9d966873dea349df90a8.jpg" width=80 height=80></a> | <a href="http://tiktok.com/@hirutalks"><img src="https://telegra.ph/file/fb903cab55a4352357b76.jpg" width=80 height=80></a> | <img src="https://telegra.ph/file/506e06c7ff382161f2eeb.jpg" width=80 height=80></a> |
+| <a href="">https://gamma.app/public/--3pd4pz1uefmx7hm<img src="" width=80 height=80>https://telegra.ph/file/928e7e60cc557ca320dff.jpg</a> width=80 height=80></a> |
 |---|---|---|
-| **[kaveesha Sithum](https://github.com/kaveesha-sithum)**</br>⭕𝙏𝙃𝘼𝙉𝙆 𝙔𝙊𝙐 ☘️⭕</br> | **[HIMESH](https://github.com/kumarahimes](http://tiktok.com/@hirutalks))**</br> ⭕𝙏𝙃𝘼𝙉𝙆 𝙔𝙊𝙐 ☘️⭕ | **[hansamal]()**</br>⭕𝙏𝙃𝘼𝙉𝙆 𝙔𝙊𝙐 ☘️⭕
+| **[𝐓𝐇𝐀𝐑𝐈𝐍𝐃𝐔 𝐎𝐅𝐂](https://gamma.app/public/--3pd4pz1uefmx7hm)**</br>⭕𝙏𝙃𝘼𝙉𝙆 𝙔𝙊𝙐 ☘️⭕</br> 
 
 
 
