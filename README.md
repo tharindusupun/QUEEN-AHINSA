@@ -135,14 +135,11 @@ click the below button to deploy on heroku!
 
 ## [☰☘️ 𝙏𝙃𝘼𝙉𝙆 𝙔𝙊𝙐 ☘️☰]
 
-  <a href="https://gamma.app/public/--3pd4pz1uefmx7hm"><img src="https://telegra.ph/file/928e7e60cc557ca320dff.jpg" width=80 height=80></a>   
+  <a href="https://gamma.app/public/--3pd4pz1uefmx7hm"><img src="https://telegra.ph/file/928e7e60cc557ca320dff.jpg" width=120 height=120></a>   
 
 |**[`𝐓𝐇𝐀𝐑𝐈𝐍𝐃𝐔 𝐎𝐅𝐂`](https://gamma.app/public/--3pd4pz1uefmx7hm)**|
 
  
- <a href=""><img src="" width=80 height=80>https://telegra.ph/file/928e7e60cc557ca320dff.jpg</a> width=80 height=80></a> |
-|---|---|---|
-| **[](https://gamma.app/public/--3pd4pz1uefmx7hm)**</br>⭕𝙏𝙃𝘼𝙉𝙆 𝙔𝙊𝙐 ☘️⭕</br> 
 
 
 
