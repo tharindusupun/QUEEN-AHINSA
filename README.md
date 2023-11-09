@@ -1,5 +1,10 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐇𝐈+𝐈𝐀𝐌+𝐐𝐔𝐄𝐄𝐍 𝐀𝐇𝐈𝐍𝐒𝐀+-+𝗕𝗢𝗧.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈:+𝐓𝐇𝐀𝐑𝐈𝐍𝐃𝐔 𝐎𝐅𝐂;ℂ𝕣𝕖𝕒𝕥𝕖𝕕+𝕓𝕪:+𝘾𝙔 🇹‌🇭‌🇦‌🇷‌🇮‌🇳‌🇩‌🇺‌ ❀ 🇸‌🇺‌🇵‌🇺‌🇳‌;💕ඉතිං+ඔයල🙃;😁හොදින්+ඉන්නවානේ🧚)](https://git.io/typing-svg)
-
+</p>
+<h1 align="center"> 𝐐𝐔𝐄𝐄𝐍 𝐀𝐇𝐈𝐍𝐒𝐀 𝐁𝐎𝐓
+</h1>
+</p>
+<h1 align="center"> 🇹‌🇭‌🇦‌🇷‌🇮‌🇳‌🇩‌🇺‌ ❀ 🇸‌🇺‌🇵‌🇺‌🇳‌
+</h1>
+<p align="center">
  <p align="center">  
   <a href="https://youtu.be/It-Ak-aSx0c">
     <img alt="secktor docs" height="300" src="https://telegra.ph/file/eac54cb449db608ccaa44.jpg">
