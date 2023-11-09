@@ -2,7 +2,7 @@
 
  <p align="center">  
   <a href="https://youtu.be/It-Ak-aSx0c">
-    <img alt="secktor docs" height="300" src="https://i.ibb.co/J5c13yt/Shenu-Queen.png">
+    <img alt="secktor docs" height="300" src="[https://i.ibb.co/J5c13yt/Shenu-Queen.png](https://telegra.ph/file/eac54cb449db608ccaa44.jpg)">
     <h1 align="center">SHENU-QUEEN-MD-V1</h1>
   </a>
 </p>  
