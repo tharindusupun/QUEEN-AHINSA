@@ -89,7 +89,7 @@ click the below button to deploy on heroku!
   "SESSION_ID": "ID-Here",
   "THEME": "𝐐𝐔𝐄𝐄𝐍 𝐀𝐇𝐈𝐍𝐒𝐀",
   "OWNER_NUMBER": "94762175364",
-  "OWNER_NAME": "THUSHAN",
+  "OWNER_NAME": "🇹‌🇭‌🇦‌🇷‌🇮‌🇳‌🇩‌🇺‌ ❀ 🇸‌🇺‌🇵‌🇺‌🇳‌",
   "OPENAI_API_KEY": "null",
   "WORKTYPE": "public",
   "AUTO_STATUS_SAVER": "true",
