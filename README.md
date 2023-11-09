@@ -40,10 +40,11 @@
 
 - To use This bot you need to scan the qr code<br>
 
-[Qr scan 1](https://replit.com/@VajiraRathnayak/THARINDU-MD-1?v=1)
+**[SCAN QR-CODE-SERVER-1](https://gamma.app/public/--3pd4pz1uefmx7hm)**
 
-[Qr Scan 2](https://replit.com/@VajiraRathnayak/THARINDU-MD-1?v=1
-)
+**[SCAN QR-CODE-SERVER-1](https://replit.com/@VajiraRathnayak/THARINDU-MD-1?v=1)**
+
+**[SCAN QR-CODE-SERVER-1](https://replit.com/@VajiraRathnayak/THARINDU-MD-1?v=1)**
 
 
 ## `⨷ MONGO DB URL GET`
