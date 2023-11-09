@@ -116,7 +116,7 @@ click the below button to deploy on heroku!
 
 
 ## `⨷ Deploy To koyeb 👇` 
-   [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/apps/deploy?type=git&repository=https://github.com/tharindusupun/QUEEN-AHINSA&branch=main&env[BOT_NUMBER]&env[SESSION_ID]&env[GITHUB_USERNAME]&env[GITHUB_AUTH_TOKEN]&name=queen ahinsa)
+   [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/apps/deploy?type=git&repository=https://github.com/tharindusupun/QUEEN-AHINSA)
 <br>
 
   
