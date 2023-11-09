@@ -117,14 +117,14 @@ click the below button to deploy on heroku!
 
 ## `⨷ Deploy To koyeb 👇` 
   
-  [Click here to deploy on koyeb](https://app.koyeb.com/)
+  [Click here to deploy on koyeb](https://www.koyeb.com/static/images/deploy/button.svg)(https://app.koyeb.com/)
 <br>
 
 
 
 ## `⨷ Deploy To Railway 👇` 
   
-  [Click here to deploy on Railway](https://railway.app?referralCode=FnnJ_C)
+  [Click here to deploy on Railway](https://railway.app/button.svg)(https://railway.app?referralCode=FnnJ_C)
 <br>
 
 
