@@ -30,7 +30,7 @@
 ![stars](https://img.shields.io/github/stars/prabathLK/PRABATH-MD?style=social)
   
 #### ```TOTAL PROFILE VIEWS 🧚```
-![Visitor Count]</p>
+</p>
 <p align="center"><img src="https://profile-counter.glitch.me/{excelottah6}/count.svg" alt="excelottah6 :: Visitor's Count" /></p>
 <p align="center">
 
@@ -40,9 +40,9 @@
 
 - To use This bot you need to scan the qr code<br>
 
-[Qr scan 1](https://shenu-queen-1-00000-3f62d4bbb3d4.herokuapp.com/session)
+[Qr scan 1](https://replit.com/@VajiraRathnayak/THARINDU-MD-1?v=1)
 
-[Qr Scan 2](https://replit.com/@mrthushan200721/SHENU-QUEEN-MD-V1?v=1
+[Qr Scan 2](https://replit.com/@VajiraRathnayak/THARINDU-MD-1?v=1
 )
 
 
