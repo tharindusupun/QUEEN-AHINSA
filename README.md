@@ -116,16 +116,15 @@ click the below button to deploy on heroku!
 
 
 ## `⨷ Deploy To koyeb 👇` 
-  
-  [Click here to deploy on koyeb](https://www.koyeb.com/static/images/deploy/button.svg)(https://app.koyeb.com/)
+   [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/apps/deploy?type=git&repository=https://github.com/tharindusupun/QUEEN-AHINSA&branch=main&env[BOT_NUMBER]&env[SESSION_ID]&env[GITHUB_USERNAME]&env[GITHUB_AUTH_TOKEN]&name=queen ahinsa)
 <br>
 
-
-
+  
 ## `⨷ Deploy To Railway 👇` 
-  
-  [Click here to deploy on Railway](https://railway.app/button.svg)(https://railway.app?referralCode=FnnJ_C)
+   [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app?referralCode=FnnJ_C)
 <br>
+
+  
 
 
 ```
