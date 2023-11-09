@@ -30,7 +30,9 @@
 ![stars](https://img.shields.io/github/stars/prabathLK/PRABATH-MD?style=social)
   
 #### ```TOTAL PROFILE VIEWS 🧚```
-![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FprabathLK%2FPRABATH-MD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
+![Visitor Count]</p>
+<p align="center"><img src="https://profile-counter.glitch.me/{excelottah6}/count.svg" alt="excelottah6 :: Visitor's Count" /></p>
+<p align="center">
 
 
 
