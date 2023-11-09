@@ -1,7 +1,7 @@
 {
-               "name": "Shenu-Queen-Md",
+               "name": "𝐐𝐔𝐄𝐄𝐍 𝐀𝐇𝐈𝐍𝐒𝐀 𝐁𝐎𝐓",
                "version": "4.0",
-               "description": "Multi device whatsapp bot by Thushan.",
+               "description": "Multi device whatsapp bot by Tharindu.",
                "main": "lib/client.js",
                "type": "commonjs",
                "license": "GPL-3.0",
@@ -88,10 +88,10 @@
                     },
                  "repository": {
                  "type": "git",
-                 "url": "git+https://github.com/CYBER-THUSHAN/SHENU-QUEEN-MD.git"
+                 "url": "git+https://github.com/tharindusupun/QUEEN-AHINSA.git"
                   },
                  "bugs": {
-                 "url": "https://github.com/CYBER-THUSHAN/SHENU-QUEEN-MD/issues"
+                 "url": "https://github.com/tharindusupun/QUEEN-AHINSA/issues"
                   },
-                 "homepage": "https://github.com/CYBER-THUSHAN/SHENU-QUEEN-MD#readme"
+                 "homepage": "https://github.com/tharindusupun/QUEEN-AHINSA#readme"
               }
