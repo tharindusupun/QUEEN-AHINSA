@@ -15,22 +15,22 @@
   </p>
   <br>
 <p align="center">
-  <a aria-label="Join our chats" href="https://chat.whatsapp.com/HFyaKoMyFga5QE7rdFYOPA" target="_blank">
+  <a aria-label="Join our chats" href="https://chat.whatsapp.com/E5hQFLAF5WQEqqVSDHMowv" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-<a aria-label="Bot Whatsapp" href="[https://chat.whatsapp.com/J6C3xxf5VAp0FW0KidBTwf](https://wa.me/94710109956?text=.menu)" target="_blank">
+<a aria-label="Bot Whatsapp" href="[https://chat.whatsapp.com/E5hQFLAF5WQEqqVSDHMowv](https://wa.me/94762175364?text=.menu)" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Bot%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   
 </p>
     
     
- ![forks](https://img.shields.io/github/forks/CYBER-THUSHAN/SHENU-QUEEN-MD?label=Forks&style=social)
+ ![forks](https://img.shields.io/github/forks/prabathLK/PRABATH-MD?label=Forks&style=social)
 
-![stars](https://img.shields.io/github/stars/CYBER-THUSHAN/SHENU-QUEEN-MDi?style=social)
+![stars](https://img.shields.io/github/stars/prabathLK/PRABATH-MDi?style=social)
   
 #### ```TOTAL PROFILE VIEWS 🧚```
-![Visitor Count](https://profile-counter.glitch.me/CYBER-THUSHAN/count.svg) 
+![Visitor Count](https://profile-counter.glitch.me/PRABATH-MD/count.svg) 
 
 
 ## `⨷ SCAN QR`
