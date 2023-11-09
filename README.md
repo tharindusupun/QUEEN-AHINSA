@@ -7,7 +7,14 @@
  <p align="center">  
   <a href="https://youtu.be/It-Ak-aSx0c">
     <img alt="secktor docs" height="300" src="https://telegra.ph/file/eac54cb449db608ccaa44.jpg">
-    <h1 align="center">𝐐𝐔𝐄𝐄𝐍 𝐀𝐇𝐈𝐍𝐒𝐀 𝐁𝐎𝐓</h1>
+    <h1 align="center">‎╮╰╮╮▕╲╰╮╭╯╱▏╭╭╭╭
+╰╰╮╰╭╱▔▔▔▔╲╮╯╭╯
+┏━┓┏┫╭▅╲╱▅╮┣┓╭║║║
+╰┳╯╰┫┗━╭╮━┛┣╯╯╚╬╝
+╭┻╮╱╰╮╰━━╯╭╯╲┊   ║
+╰┳┫▔╲╰┳━━┳╯╱▔┊   ║
+┈┃╰━━╲▕╲╱▏╱━━━┬╨╮
+┈╰━━╮┊▕╱╲▏┊╭━━┴╥╯</h1>
   </a>
 </p> 
   <div align="center">
