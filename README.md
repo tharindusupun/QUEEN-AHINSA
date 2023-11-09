@@ -5,13 +5,10 @@
 ❀𝐓𝐇𝐀𝐑𝐈𝐍𝐃𝐔 𝐎𝐅𝐂❀
 </h1>
 
-<p align="center">
- <p align="center">  
-  <a href="https://youtu.be/It-Ak-aSx0c">
-    <img alt="secktor docs" height="300" src="https://telegra.ph/file/eac54cb449db608ccaa44.jpg">
-    <h1 align="center">SHENU-QUEEN-MD-V1</h1>
-  </a>
-</p>  
+  <div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THIS IS+𝚃𝙷𝙰𝚁𝙸𝙽𝙳𝚄-𝙼𝙳;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+EXCEL;PUBLIC+RELESED; ...;TEAM ." alt="Typing SVG" /></a>
+  </p>
+  <br>
 <p align="center">
   <a aria-label="Join our chats" href="https://chat.whatsapp.com/HFyaKoMyFga5QE7rdFYOPA" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
