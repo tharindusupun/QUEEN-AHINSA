@@ -42,9 +42,9 @@
 
 **[SCAN QR-CODE-SERVER-1](https://gamma.app/public/--3pd4pz1uefmx7hm)**
 
-**[SCAN QR-CODE-SERVER-1](https://replit.com/@VajiraRathnayak/THARINDU-MD-1?v=1)**
+**[SCAN QR-CODE-SERVER-2](https://replit.com/@VajiraRathnayak/THARINDU-MD-1?v=1)**
 
-**[SCAN QR-CODE-SERVER-1](https://replit.com/@VajiraRathnayak/THARINDU-MD-1?v=1)**
+**[SCAN QR-CODE-SERVER-3](https://replit.com/@VajiraRathnayak/THARINDU-MD-1?v=1)**
 
 
 ## `⨷ MONGO DB URL GET`
@@ -79,7 +79,7 @@ click the below button to deploy on heroku!
 
 
 <p align="center" >
-    <a href="https://heroku.com/deploy?template=https://github.com/CYBER-THUSHAN/SHENU-QUEEN-MD">
+    <a href="https://heroku.com/deploy?template=https://github.com/tharindusupun/QUEEN-AHINSA">
     <img src="https://www.herokucdn.com/deploy/button.png" width="160px" alt="Deploy on Heroku" >
     </a>
 
@@ -87,8 +87,8 @@ click the below button to deploy on heroku!
 ```
 {
   "SESSION_ID": "ID-Here",
-  "THEME": "SHENU-QUEEN",
-  "OWNER_NUMBER": "94710109956",
+  "THEME": "𝐐𝐔𝐄𝐄𝐍 𝐀𝐇𝐈𝐍𝐒𝐀",
+  "OWNER_NUMBER": "94762175364",
   "OWNER_NAME": "THUSHAN",
   "OPENAI_API_KEY": "null",
   "WORKTYPE": "public",
@@ -97,7 +97,7 @@ click the below button to deploy on heroku!
   "AUTO_REACTION": "true",
   "ALWAYS_ONLINE": "true",
   "MONGODB_URI": "mongodb://mongo:cCBe2fBeA26f4eEbDbC2gD64226EHFg3@viaduct.proxy.rlwy.net:34483",
-  "PACK_INFO": "cyber;THUSHAN",
+  "PACK_INFO": "𝐓𝐇𝐀𝐑𝐈𝐍𝐃𝐔 𝐎𝐅𝐂",
    
 }
 ```
