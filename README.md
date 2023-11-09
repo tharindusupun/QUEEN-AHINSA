@@ -4,9 +4,14 @@
 
 ❀𝐓𝐇𝐀𝐑𝐈𝐍𝐃𝐔 𝐎𝐅𝐂❀
 </h1>
-
+ <p align="center">  
+  <a href="https://youtu.be/It-Ak-aSx0c">
+    <img alt="secktor docs" height="300" src="https://telegra.ph/file/eac54cb449db608ccaa44.jpg">
+    <h1 align="center">𝐐𝐔𝐄𝐄𝐍 𝐀𝐇𝐈𝐍𝐒𝐀 𝐁𝐎𝐓</h1>
+  </a>
+</p> 
   <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THIS IS+𝐐𝐔𝐄𝐄𝐍 𝐀𝐇𝐈𝐍𝐒𝐀;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+EXCEL;PUBLIC+RELESED; ...;𝐂𝐑𝐄𝐀𝐓𝐄𝐃 𝐁𝐘 ➤ 𝐓𝐇𝐀𝐑𝐈𝐍𝐃𝐔 𝐎𝐅𝐂." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THIS IS+𝐐𝐔𝐄𝐄𝐍 𝐀𝐇𝐈𝐍𝐒𝐀;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+𝐓𝐇𝐀𝐑𝐈𝐍𝐃𝐔 𝐎𝐅𝐂;PUBLIC+RELESED; ...;𝐂𝐑𝐄𝐀𝐓𝐄𝐃 𝐁𝐘 ➤ 𝐓𝐇𝐀𝐑𝐈𝐍𝐃𝐔 𝐎𝐅𝐂." alt="Typing SVG" /></a>
   </p>
   <br>
 <p align="center">
