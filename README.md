@@ -1,9 +1,8 @@
 </p>
 <h1 align="center"> 𝐐𝐔𝐄𝐄𝐍 𝐀𝐇𝐈𝐍𝐒𝐀 𝐁𝐎𝐓
+ 𝐓𝐇𝐀𝐑𝐈𝐍𝐃𝐔 𝐎𝐅𝐂
 </h1>
-</p>
-<h1 align="center"> 🇹‌🇭‌🇦‌🇷‌🇮‌🇳‌🇩‌🇺‌ ❀ 🇸‌🇺‌🇵‌🇺‌🇳‌
-</h1>
+
 <p align="center">
  <p align="center">  
   <a href="https://youtu.be/It-Ak-aSx0c">
